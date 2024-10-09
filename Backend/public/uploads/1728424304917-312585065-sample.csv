@@ -1,0 +1,6 @@
+amount,description,date,category,paymentMethod
+100,bread,2022-10-01,rent,cash
+200,coffee,2022-10-02,rent,online
+300,milk,2022-10-03,other,cash
+400,suger,2022-10-04,other,online
+500,coco pawder,2022-10-05,entertainment,cash
